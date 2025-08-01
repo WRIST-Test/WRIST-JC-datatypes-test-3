@@ -47,6 +47,25 @@
           "type": "WRIST-Test/WRIST-JC-test-/Lower Limit Range@types.</p>"
         }
       ]
+    },
+    {
+      "derivedFrom": "WRIST-Test/WRIST-JC-test-/Item 1@types.</p>",
+      "description": "<p><br></p>",
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "Record",
+      "isComponent": true,
+      "maximumMultiplicity": "1",
+      "minimumMultiplicity": "0",
+      "mro": "M",
+      "name": "Item 1",
+      "relationshipType": "specialisation",
+      "type": "item",
+      "valueDomain": [
+        {
+          "type": ""
+        }
+      ],
+      "valueSets": ""
     }
   ]
 }
